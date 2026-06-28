@@ -1,0 +1,10 @@
+{
+  "client_id": "https://raw.githubusercontent.com/robertoronderosjr/pa-oauth/main/lovable-client.json",
+  "client_name": "Personal Assistant",
+  "client_uri": "https://github.com/robertoronderosjr/pa-oauth",
+  "redirect_uris": ["http://localhost:8976/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "scope": "offline projects:read projects:write projects:create workspaces:read workspaces:write",
+  "token_endpoint_auth_method": "none"
+}
