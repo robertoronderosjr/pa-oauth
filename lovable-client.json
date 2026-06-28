@@ -1,5 +1,5 @@
 {
-  "client_id": "https://raw.githubusercontent.com/robertoronderosjr/pa-oauth/main/lovable-client.json",
+  "client_id": "https://cdn.jsdelivr.net/gh/robertoronderosjr/pa-oauth@main/lovable-client.json",
   "client_name": "Personal Assistant",
   "client_uri": "https://github.com/robertoronderosjr/pa-oauth",
   "redirect_uris": ["http://localhost:8976/callback"],
